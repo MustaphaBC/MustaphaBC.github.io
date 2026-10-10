@@ -8,7 +8,7 @@ Open index.html in a browser, or serve the folder with any static file server.
 
 ## Publish
 
-The site is designed for GitHub Pages from the main branch and repository root. The page links to a one-page A4 CV PDF at output/pdf/Mustapha_Ben-Cheikh_CV.pdf. Project links in the PDF open the corresponding repositories.
+The site is designed for GitHub Pages from the main branch and repository root. The download link serves the supplied one-page French CV PDF at `output/pdf/Mustapha_Ben-Cheikh_CV.pdf`. The page presents experience, education, selected projects, and skills from that CV, with links to the corresponding source repositories.
 
 ## Stack
 
